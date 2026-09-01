@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AsoHiroto\\Desktop\\GitHub\\\u9B54\u8853\u5E2B\u6D41\u81EA\u5206\u306E\u6BBA\u3057\u65B9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3906E9-5C92-490B-9246-F19764E5077A}|2026_summer.vcxproj|C:\\Users\\AsoHiroto\\Desktop\\GitHub\\\u9B54\u8853\u5E2B\u6D41\u81EA\u5206\u306E\u6BBA\u3057\u65B9\\Scenes\\StartScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E3906E9-5C92-490B-9246-F19764E5077A}|2026_summer.vcxproj|solutionrelative:Scenes\\StartScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartScene.cpp",
+              "DocumentMoniker": "C:\\Users\\AsoHiroto\\Desktop\\GitHub\\\u9B54\u8853\u5E2B\u6D41\u81EA\u5206\u306E\u6BBA\u3057\u65B9\\Scenes\\StartScene.cpp",
+              "RelativeDocumentMoniker": "Scenes\\StartScene.cpp",
+              "ToolTip": "C:\\Users\\AsoHiroto\\Desktop\\GitHub\\\u9B54\u8853\u5E2B\u6D41\u81EA\u5206\u306E\u6BBA\u3057\u65B9\\Scenes\\StartScene.cpp",
+              "RelativeToolTip": "Scenes\\StartScene.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-01T03:01:08.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

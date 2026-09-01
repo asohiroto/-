@@ -60,7 +60,7 @@ void StartScene::Draw()
 	DrawGraph(-100, 50, _logoH, true);
 
 	SetFontSize(FONT_SIZE);
-	DrawFormatString(600, 750 + _startY1, 0xff00ff, "Press ■ to Start");
-	DrawFormatString(600, 750 + _startY2, 0xffffff, "Press ■ to Start");
+	DrawFormatString(600, 750 + _startY1, 0xff00ff, "Press X to Start");
+	DrawFormatString(600, 750 + _startY2, 0xffffff, "Press X to Start");
 	SetFontSize(20);
 }
